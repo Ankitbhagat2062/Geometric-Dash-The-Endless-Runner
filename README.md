@@ -1,6 +1,6 @@
 # Geometric Dash Game
 
-![Geometric Dash Game](Images/0f840529b8fe81228866b1518e2e7d1.png)
+![Geometric Dash Game](Images/Screenshot.png)
 
 ## Overview
 
@@ -15,7 +15,7 @@ This project was completed as part of **Week 0** of [CS50: Introduction to Compu
 - **Assignment Grade**: 2/2 (Full Marks)
 - **Original Scratch Project**: [Geometric Dash on Scratch](https://scratch.mit.edu/projects/1201934945)
 - **GitHub Repository**: [Geometric-Dash on GitHub](https://github.com/Ankitbhagat2062/Geometric-Dash)
-- **Live Demo**: [Play Geometric Dash](https://result-7souvf1jk-ankitbhagat2062s-projects.vercel.app)
+- **Live Demo**: [Play Geometric Dash](https://geometric-dash-8sehrtk9h-ankitbhagat2062s-projects.vercel.app)
 
 ## About Geometric Dash
 
@@ -111,8 +111,13 @@ This project helped me understand:
 
 You can play the game in several ways:
 
-1. **Online**: Visit the [live demo](https://result-7souvf1jk-ankitbhagat2062s-projects.vercel.app)
+1. **Online**: Visit the [live demo](https://geometric-dash-8sehrtk9h-ankitbhagat2062s-projects.vercel.app)
 2. **Locally**: Download the repository and open `index.html` in your browser
+   or 
+   
+     ``` 
+      git clone https://github.com/Ankitbhagat2062/Geometric-Dash.git 
+    ```
 3. **Scratch**: View the original project on [Scratch](https://scratch.mit.edu/projects/1201934945)
 
 ## Acknowledgements
